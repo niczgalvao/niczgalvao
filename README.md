@@ -27,4 +27,10 @@
 ###
 
 <p align="justify"> NOME : Nicolas Galvão </p>
+<p align="justify"> HOBBY : Trabalhar, Jogar, Comer </p>
+<p align="justify"> HOBBY : Trabalhar, Jogar, Comer </p>
+<p align="justify"> CONTEUDO FAV. : Foont end </p>
+
+
+
 
