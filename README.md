@@ -26,5 +26,5 @@
 
 ###
 
-<p align="center"> OLÁ MEU NOME É NICOLAS </p>
+<p align="justify"> OLÁ MEU NOME É NICOLAS </p>
 
