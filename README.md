@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img src= "https://skillforge.com/wp-content/uploads/2020/10/javascript.png"  height="60" alt="css logo"  />
-  
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" height="60" alt="css logo"  />
 </div>
 
 ###
