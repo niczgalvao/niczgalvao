@@ -29,7 +29,7 @@
 <p align="justify"> NOME : Nicolas Galvão </p>
 <p align="justify"> CURSO: desenvolvimemto de sistemas </p>
 <p align="justify"> HOBBY : Trabalhar, Jogar, Comer </p>
-<p align="justify"> CONTEUDO FAV. : Foont end </p>
+<p align="justify"> CONTEUDO FAV. : Front End </p>
 
 
 
